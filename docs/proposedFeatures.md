@@ -1,0 +1,35 @@
+# Product Feature Set — Restaurant Reputation & Market Intelligence
+
+| Umbrella Feature | What it covers | Subfeatures | Why it matters |
+|---|---|---|---|
+| Reputation Intelligence | Continuous understanding of what customers are saying | Review aggregation, topic extraction, aspect sentiment, praise vs complaint detection, recurring issue clustering, severity scoring | Core product. Turns raw reviews into structured understanding. |
+| Trend & Change Detection | Detect what is changing over time | Daily/weekly/monthly trends, rising complaint detection, new issue detection, improvement tracking, rating movement explanation | Restaurants care more about change than static metrics. |
+| Location Performance Intelligence | Compare performance across branches | Location ranking, underperforming location detection, issue heatmaps by location, branch-level summaries, performance drift detection | Chains and franchises need location-level visibility. |
+| Competitor Intelligence | Compare against nearby competitors | Competitor tracking, rating comparison, topic comparison, strengths vs weaknesses, competitor momentum tracking, local ranking | Strategic value. Helps positioning and decision-making. |
+| Customer Voice Summaries | Natural language explanation of feedback | Weekly summaries, executive briefings, “what changed” reports, top praise, top complaints, key risks, highlights | Makes product usable without dashboards. |
+| Operational Insights | Convert feedback into actionable operational signals | Service issues, food quality issues, cleanliness signals, staff behavior insights, waiting time analysis, delivery experience insights | Bridges gap between reviews and operations. |
+| Issue Prioritization | Identify what to fix first | Impact scoring, frequency weighting, rating impact estimation, urgency detection, top issues list | Prevents overwhelm from too many signals. |
+| Alerting & Monitoring | Notify when something important happens | Negative spike alerts, rating drop alerts, new complaint cluster alerts, competitor surge alerts, location risk alerts | Makes product proactive instead of passive. |
+| Competitor Market Landscape | Understand the broader market | Category-level trends, neighborhood insights, expectation mapping, common complaints in area, what customers value most | Helps expansion and strategy decisions. |
+| Customer Experience Breakdown | Analyze perception by experience type | Dine-in vs delivery insights, service vs food comparison, ambience vs value perception, speed vs quality tradeoffs | Gives deeper understanding of experience drivers. |
+| Review Response Intelligence | Assist in customer engagement | Suggested responses, tone matching, complaint-specific replies, escalation tagging, response performance tracking | Improves engagement and brand perception. |
+| Reputation Health Scoring | Overall perception measurement | Brand-level score, location-level score, trend-adjusted score, competitor-relative score, risk indicators | Gives quick understanding of performance. |
+| Insight Reports | Structured reporting for stakeholders | Weekly reports, monthly reports, location scorecards, competitor summaries, improvement tracking reports | Useful for managers and leadership. |
+| Performance Benchmarking | Compare performance across dimensions | Brand vs competitor, location vs brand average, cuisine comparison, market percentile ranking | Helps contextualize performance. |
+| Theme Intelligence | Deep understanding of feedback topics | Food themes, service themes, ambience themes, pricing themes, cleanliness themes, delivery themes | Core interpretability layer. |
+| Sentiment Intelligence | Emotional direction of feedback | Positive vs negative by theme, sentiment shifts, sentiment volatility, praise vs complaint balance | Helps detect perception changes. |
+| Experience Driver Analysis | Identify what drives ratings | What leads to high ratings, what leads to low ratings, correlation between topics and ratings | Turns feedback into decision-making signals. |
+| Reputation Timeline | Historical perception tracking | Timeline of complaints, timeline of praise, major change points, event-based shifts | Shows how perception evolves. |
+| Competitive Strength Mapping | Identify where competitors win | Competitor strengths, competitor weaknesses, differentiation gaps, positioning insights | Useful for strategy and marketing. |
+| Customer Expectation Intelligence | Understand what customers care about | Most mentioned attributes, rising expectations, category expectations, location-specific expectations | Helps improve offering. |
+| Branch Risk Detection | Detect risky locations | Sudden rating drop, recurring complaints, negative trend detection, location health alerts | Useful for multi-location brands. |
+| Praise Mining | Extract what customers love | Best review highlights, repeat praise themes, marketing-friendly quotes, loyalty drivers | Useful for marketing and branding. |
+| Complaint Intelligence | Deep analysis of negative feedback | Recurring complaint clusters, severity detection, complaint trend tracking, root issue grouping | Helps fix operational problems. |
+| Change Impact Analysis | Detect impact of changes | Before vs after analysis, menu change impact, service change impact, operational shift detection | Helps evaluate decisions. |
+| Competitive Ranking | Position in local market | Rank among nearby competitors, category rank, rating position, review velocity ranking | Simple but powerful insight. |
+| Reputation Movement Tracking | Detect momentum | Improving reputation, declining perception, stable perception detection | Useful for strategic monitoring. |
+| Multi-Level Insight Views | Different levels of understanding | Brand-level insights, location-level insights, market-level insights, competitor-level insights | Supports different user roles. |
+| Executive Decision Intelligence | High-level business guidance | What to fix first, biggest risk, biggest opportunity, strongest competitor, key improvement area | Makes product valuable to leadership. |
+| Customer Experience Signals | Detect experience-level problems | Slow service detection, staff behavior complaints, food temperature issues, order accuracy issues | Operationally actionable insights. |
+| Market Positioning Insights | Understand brand perception | Premium vs value perception, ambience perception, service perception, quality perception | Helps branding decisions. |
+| Reputation Monitoring Dashboard | Unified monitoring view | Overview metrics, trend summary, issue list, competitor comparison, alerts panel | Central product view. |
