@@ -33,3 +33,4 @@
 | Customer Experience Signals | Detect experience-level problems | Slow service detection, staff behavior complaints, food temperature issues, order accuracy issues | Operationally actionable insights. |
 | Market Positioning Insights | Understand brand perception | Premium vs value perception, ambience perception, service perception, quality perception | Helps branding decisions. |
 | Reputation Monitoring Dashboard | Unified monitoring view | Overview metrics, trend summary, issue list, competitor comparison, alerts panel | Central product view. |
+| Conversational Intelligence (RAG Chat) | Chat interface over all reviews and insights | Ask questions about reviews, location comparison queries, competitor queries, trend explanation, complaint drill-down, summarize by timeframe, filter by location, filter by topic, evidence-backed answers with review citations | Makes the product interactive and removes need for dashboards |
